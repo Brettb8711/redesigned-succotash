@@ -1,0 +1,108 @@
+[05/15/25 17:04:47.286] [10] [critical] Initializing 1WA OPC UA SDK, version 1.1.6 *****************************************
+[05/15/25 17:04:47.287] [10] [critical] Initialized IO thread pool with 2 threads.
+[05/15/25 17:04:47.287] [13] [info] Starting thread 1 of the pool
+[05/15/25 17:04:47.287] [14] [info] Starting thread 2 of the pool
+[05/15/25 17:04:47.287] [15] [info] Starting thread 3 of the pool
+[05/15/25 17:04:47.287] [16] [info] Starting thread 4 of the pool
+[05/15/25 17:04:47.287] [17] [info] Starting thread 5 of the pool
+[05/15/25 17:04:47.287] [18] [info] Starting thread 6 of the pool
+[05/15/25 17:04:47.288] [19] [info] Starting thread 7 of the pool
+[05/15/25 17:04:47.288] [20] [info] Starting thread 8 of the pool
+[05/15/25 17:04:47.288] [21] [info] Starting thread 9 of the pool
+[05/15/25 17:04:47.288] [22] [info] Starting thread 10 of the pool
+[05/15/25 17:04:47.288] [23] [info] Starting thread 11 of the pool
+[05/15/25 17:04:47.288] [24] [info] Starting thread 12 of the pool
+[05/15/25 17:04:47.288] [25] [info] Starting thread 13 of the pool
+[05/15/25 17:04:47.288] [26] [info] Starting thread 14 of the pool
+[05/15/25 17:04:47.288] [27] [info] Starting thread 15 of the pool
+[05/15/25 17:04:47.289] [28] [info] Starting thread 16 of the pool
+[05/15/25 17:04:47.289] [10] [critical] Initialized callback thread pool with 16 threads.
+[05/15/25 17:04:47.289] [29] [info] Starting thread 1 of the pool
+[05/15/25 17:04:47.289] [30] [info] Starting thread 2 of the pool
+[05/15/25 17:04:47.289] [31] [info] Starting thread 3 of the pool
+[05/15/25 17:04:47.289] [32] [info] Starting thread 4 of the pool
+[05/15/25 17:04:47.289] [33] [info] Starting thread 5 of the pool
+[05/15/25 17:04:47.289] [34] [info] Starting thread 6 of the pool
+[05/15/25 17:04:47.289] [35] [info] Starting thread 7 of the pool
+[05/15/25 17:04:47.290] [36] [info] Starting thread 8 of the pool
+[05/15/25 17:04:47.290] [37] [info] Starting thread 9 of the pool
+[05/15/25 17:04:47.290] [38] [info] Starting thread 10 of the pool
+[05/15/25 17:04:47.290] [39] [info] Starting thread 11 of the pool
+[05/15/25 17:04:47.290] [40] [info] Starting thread 12 of the pool
+[05/15/25 17:04:47.290] [41] [info] Starting thread 13 of the pool
+[05/15/25 17:04:47.290] [42] [info] Starting thread 14 of the pool
+[05/15/25 17:04:47.290] [43] [info] Starting thread 15 of the pool
+[05/15/25 17:04:47.290] [44] [info] Starting thread 16 of the pool
+[05/15/25 17:04:47.290] [10] [critical] Initialized timer thread pool with 16 threads.
+[05/15/25 17:29:46.224] [10] [critical] Initializing 1WA OPC UA SDK, version 1.1.6 *****************************************
+[05/15/25 17:29:46.225] [10] [critical] Initialized IO thread pool with 2 threads.
+[05/15/25 17:29:46.225] [13] [info] Starting thread 1 of the pool
+[05/15/25 17:29:46.226] [14] [info] Starting thread 2 of the pool
+[05/15/25 17:29:46.226] [15] [info] Starting thread 3 of the pool
+[05/15/25 17:29:46.227] [16] [info] Starting thread 4 of the pool
+[05/15/25 17:29:46.228] [17] [info] Starting thread 5 of the pool
+[05/15/25 17:29:46.228] [18] [info] Starting thread 6 of the pool
+[05/15/25 17:29:46.229] [19] [info] Starting thread 7 of the pool
+[05/15/25 17:29:46.230] [20] [info] Starting thread 8 of the pool
+[05/15/25 17:29:46.230] [21] [info] Starting thread 9 of the pool
+[05/15/25 17:29:46.231] [22] [info] Starting thread 10 of the pool
+[05/15/25 17:29:46.231] [23] [info] Starting thread 11 of the pool
+[05/15/25 17:29:46.231] [24] [info] Starting thread 12 of the pool
+[05/15/25 17:29:46.231] [25] [info] Starting thread 13 of the pool
+[05/15/25 17:29:46.232] [26] [info] Starting thread 14 of the pool
+[05/15/25 17:29:46.232] [27] [info] Starting thread 15 of the pool
+[05/15/25 17:29:46.232] [10] [critical] Initialized callback thread pool with 16 threads.
+[05/15/25 17:29:46.232] [28] [info] Starting thread 16 of the pool
+[05/15/25 17:29:46.232] [29] [info] Starting thread 1 of the pool
+[05/15/25 17:29:46.232] [30] [info] Starting thread 2 of the pool
+[05/15/25 17:29:46.233] [31] [info] Starting thread 3 of the pool
+[05/15/25 17:29:46.233] [32] [info] Starting thread 4 of the pool
+[05/15/25 17:29:46.233] [33] [info] Starting thread 5 of the pool
+[05/15/25 17:29:46.233] [34] [info] Starting thread 6 of the pool
+[05/15/25 17:29:46.233] [35] [info] Starting thread 7 of the pool
+[05/15/25 17:29:46.233] [36] [info] Starting thread 8 of the pool
+[05/15/25 17:29:46.233] [37] [info] Starting thread 9 of the pool
+[05/15/25 17:29:46.234] [38] [info] Starting thread 10 of the pool
+[05/15/25 17:29:46.234] [39] [info] Starting thread 11 of the pool
+[05/15/25 17:29:46.234] [40] [info] Starting thread 12 of the pool
+[05/15/25 17:29:46.234] [41] [info] Starting thread 13 of the pool
+[05/15/25 17:29:46.234] [42] [info] Starting thread 14 of the pool
+[05/15/25 17:29:46.235] [43] [info] Starting thread 15 of the pool
+[05/15/25 17:29:46.235] [44] [info] Starting thread 16 of the pool
+[05/15/25 17:29:46.235] [10] [critical] Initialized timer thread pool with 16 threads.
+[05/15/25 21:05:06.705] [10] [critical] Initializing 1WA OPC UA SDK, version 1.1.6 *****************************************
+[05/15/25 21:05:06.706] [10] [critical] Initialized IO thread pool with 2 threads.
+[05/15/25 21:05:06.707] [13] [info] Starting thread 1 of the pool
+[05/15/25 21:05:06.707] [14] [info] Starting thread 2 of the pool
+[05/15/25 21:05:06.707] [15] [info] Starting thread 3 of the pool
+[05/15/25 21:05:06.707] [16] [info] Starting thread 4 of the pool
+[05/15/25 21:05:06.707] [17] [info] Starting thread 5 of the pool
+[05/15/25 21:05:06.707] [18] [info] Starting thread 6 of the pool
+[05/15/25 21:05:06.707] [19] [info] Starting thread 7 of the pool
+[05/15/25 21:05:06.707] [20] [info] Starting thread 8 of the pool
+[05/15/25 21:05:06.707] [21] [info] Starting thread 9 of the pool
+[05/15/25 21:05:06.707] [22] [info] Starting thread 10 of the pool
+[05/15/25 21:05:06.708] [23] [info] Starting thread 11 of the pool
+[05/15/25 21:05:06.708] [24] [info] Starting thread 12 of the pool
+[05/15/25 21:05:06.708] [25] [info] Starting thread 13 of the pool
+[05/15/25 21:05:06.708] [26] [info] Starting thread 14 of the pool
+[05/15/25 21:05:06.708] [27] [info] Starting thread 15 of the pool
+[05/15/25 21:05:06.708] [28] [info] Starting thread 16 of the pool
+[05/15/25 21:05:06.708] [10] [critical] Initialized callback thread pool with 16 threads.
+[05/15/25 21:05:06.708] [29] [info] Starting thread 1 of the pool
+[05/15/25 21:05:06.708] [30] [info] Starting thread 2 of the pool
+[05/15/25 21:05:06.708] [31] [info] Starting thread 3 of the pool
+[05/15/25 21:05:06.709] [32] [info] Starting thread 4 of the pool
+[05/15/25 21:05:06.709] [33] [info] Starting thread 5 of the pool
+[05/15/25 21:05:06.709] [34] [info] Starting thread 6 of the pool
+[05/15/25 21:05:06.709] [35] [info] Starting thread 7 of the pool
+[05/15/25 21:05:06.709] [36] [info] Starting thread 8 of the pool
+[05/15/25 21:05:06.709] [37] [info] Starting thread 9 of the pool
+[05/15/25 21:05:06.709] [38] [info] Starting thread 10 of the pool
+[05/15/25 21:05:06.709] [39] [info] Starting thread 11 of the pool
+[05/15/25 21:05:06.710] [40] [info] Starting thread 12 of the pool
+[05/15/25 21:05:06.710] [41] [info] Starting thread 13 of the pool
+[05/15/25 21:05:06.710] [42] [info] Starting thread 14 of the pool
+[05/15/25 21:05:06.710] [43] [info] Starting thread 15 of the pool
+[05/15/25 21:05:06.710] [44] [info] Starting thread 16 of the pool
+[05/15/25 21:05:06.710] [10] [critical] Initialized timer thread pool with 16 threads.
